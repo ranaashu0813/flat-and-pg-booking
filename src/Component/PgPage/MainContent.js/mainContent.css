@@ -1,0 +1,27 @@
+
+.container1{
+    display: flex;
+    justify-content: center;
+}
+
+.container2{
+    display: flex;
+    width: 100%;
+
+}
+
+
+.Maincontent{
+    flex: 2;
+}
+
+
+
+@media only screen and (max-width:900px){
+    .Crousel1{
+        display: none;
+
+    }
+    
+    
+}

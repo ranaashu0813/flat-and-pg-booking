@@ -1,0 +1,13 @@
+@media only screen and (max-width:1024px){
+
+    .box-container{
+        display: flex;
+        flex-direction: column;
+        height: 45rem !important;
+        
+    }
+.box-text{
+    width: 100% !important;
+}
+
+}
